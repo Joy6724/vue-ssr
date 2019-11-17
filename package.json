@@ -1,0 +1,24 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "description": "Test for Vue SSR.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joy6724/vue-ssr.git"
+  },
+  "author": "JoyWong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joy6724/vue-ssr/issues"
+  },
+  "homepage": "https://github.com/Joy6724/vue-ssr#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vue": "^2.6.10",
+    "vue-server-renderer": "^2.6.10"
+  }
+}
